@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "private": true,
+  "description": "Get started with React with code splitting!",
+  "engines": {
+    "node": ">=6.9"
+  },
+  "keywords": [
+    "neutrino",
+    "react",
+    "router",
+    "codesplit",
+    "webpack"
+  ],
+  "scripts": {
+    "start": "neutrino start",
+    "build": "neutrino build"
+  },
+  "devDependencies": {
+    "neutrino": "^6.0.4",
+    "neutrino-preset-react": "^6.0.4"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-async-component": "^1.0.0-beta.3",
+    "react-dom": "^15.6.1",
+    "react-hot-loader": "3.0.0-beta.7",
+    "react-router-dom": "^4.1.1"
+  }
+}
