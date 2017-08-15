@@ -1,5 +1,5 @@
 # React Router code split
-
+We are using react-router. Here router base code split. all components are fetching asynchronous.
  
 
 ## Requirements
